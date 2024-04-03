@@ -1,17 +1,27 @@
 {
     "en": {
         "welcomemsg": "Welcome!",
-        "namemsg": " I am Ankita Pawar ! ",
+        "namemsg": " Globalization has transformed the world into a closely interconnected community. People from different corners of the globe now communicate, trade, and collaborate effortlessly, breaking down barriers that once seemed insurmountable. ",
         "greetingmsg": "Have a great day!"
+        
     },
     "hi": {
         "welcomemsg": "स्वागत है |",
-        "namemsg": "मैं अंकिता पंवार हूँ |",
+        "namemsg": "वैश्विकरण ने दुनिया को एक घनिष्ठ जुड़े हुए समुदाय में बदल दिया है। विभिन्न देशों के लोग अब समुद्र किनारों से आसानी से संवाद करते हैं, व्यापार करते हैं, और सहयोग करते हैं, जो पहले अदाकार लगते थे।",
         "greetingmsg": "आपका दिन अच्छा रहे |"
     },
     "mr": {
         "welcomemsg": "स्वागत आहे",
-        "namemsg": " मी अंकिता पंवार आहे.",
+        "namemsg": "ग्लोबलीकरण ह्या जगातलं घनिष्ठ जोड बदललं आहे. जगातील विविध कोनांतील लोक आता संवाद साधतात, व्यापार करतात, आणि एकत्र काम करतात, जे ज्यांना एका काळात अदाच दिसत होते.",
         "greetingmsg": "तुमचा दिवस चांगला जावो."
+    },
+    "sp":{
+        "welcomemsg":"Bienvenido",
+        "namemsg":"La globalización ha transformado al mundo en una comunidad estrechamente interconectada. Personas de diferentes rincones del mundo ahora se comunican, comercian y colaboran sin esfuerzo, derribando barreras que alguna vez parecían insuperables.",
+        "greetingmsg":"Que tengas un gran día."
+
+
+
     }
+   
 }
